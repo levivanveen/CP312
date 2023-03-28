@@ -1,8 +1,8 @@
 import json
 
-from Q1 import *
-from Q2 import *
-from Q3 import *
+from q1 import *
+from q2 import *
+from q3 import *
 
 
 def q1(a3):
@@ -37,10 +37,6 @@ a3 = data[assignment + question]
 print('-----------------------------\nRunning question ' + question + ':\n')
 function = locals()['q' + question]
 
-if int(question) == 1:
-  function(a3)
-elif int(question) == 2:
-  function(a3)
-elif int(question) == 3:
+if int(question) == 1 or int(question) == 2 or int(question) == 3:
   function(a3)
 

@@ -81,5 +81,72 @@
       "a": [2, 3, 5, 7, 8],
       "b": [1, 4, 6, 9, 10]
     }
+  },
+  "A4Q1": {
+    "examples": ["example1", "example2", "example3"],
+    "example1": {
+      "arr": [5, 6, 1, 2, 5, 4, 3, 8, 1],
+      "n": 9
+    },
+    "example2": {
+      "arr": [2, 1, 4, 2],
+      "n": 4
+    },
+    "example3": {
+      "arr": [2, 4, 5, 2],
+      "n": 4
+    }
+  },
+  "A4Q2": {
+    "examples": ["example1", "example2", "example3"],
+    "values": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 20, 25, 33, 50, 67, 100],
+    "example1": {
+      "d": [1, 5, 10, 25],
+      "w": [1, 2, 3, 10]
+    },
+    "example2": {
+      "d": [1, 2, 5],
+      "w": [10, 1, 2]
+    },
+    "example3": {
+      "d": [1, 2, 5],
+      "w": [3, 5, 10]
+    }
+  },
+  "A4Q3": {
+    "examples": ["example1", "example2", "example3", "example4", "example5"],
+    "example1":{
+      "arr": [1, 1, 3, 3, 4, 4, 5, 5, 7, 7, 8]
+    },
+    "example2":{
+      "arr": [1, 1, 3, 3, 4, 5, 5, 7, 7, 8, 8]
+    },
+    "example3":{
+      "arr": [1, 3, 3, 4, 4, 5, 5, 7, 7, 8, 8]
+    },
+    "example4":{
+      "arr": [1, 1, 3, 3, 4, 4, 5, 5, 7, 8, 8]
+    },
+    "example5":{
+      "arr": [1, 1, 2, 2, 3, 3, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10]
+    }
+  },
+  "A4Q4": {
+    "examples": ["example1", "example2", "example3", "example4", "example5"],
+    "example1":{
+      "x": "thisworkdisthisis"
+    },
+    "example2":{
+      "x": "wowThatscool"
+    },
+    "example3":{
+      "x": "okther"
+    },
+    "example4":{
+      "x": "eactuallyjhere"
+    },
+    "example5":{
+      "x": "racecar"
+    }
   }
 }
